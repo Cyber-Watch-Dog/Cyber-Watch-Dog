@@ -38,16 +38,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| 🔧 Project | 📌 Description | 🔗 Link |
-|-----------|----------------|--------|
-| 🕵️‍♂️ Bug Bounty Automation | Recon + vulnerability automation toolkit | https://github.com/YOUR-USERNAME |
-| ⚠️ Open Redirect Scanner | Detects open redirect parameters automatically | https://github.com/YOUR-USERNAME |
-| 🍽️ Restaurant System | Menu + ordering + kitchen display app | https://github.com/YOUR-USERNAME |
-
----
-
 ### 📊 GitHub Stats (Dynamic)
 
 <p align="center">
