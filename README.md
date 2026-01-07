@@ -1,15 +1,78 @@
-# 👋 Hi, I’m Yash Pawar
+<!-- Header -->
+<h1 align="center">🔥 Hey, I'm Yash — Cybersecurity & Bug Bounty Enthusiast</h1>
 
-- 👀 I’m interested in ethical hacking, bug bounty hunting, cybersecurity tools, AI assistants like JARVIS, and building t-shirt brands for hackers & coders.
-- 🌱 I’m currently learning advanced penetration testing techniques, developing automated recon tools, and working with NS-3 for secure VANET protocol simulation.
-- 💞️ I’m looking to collaborate on open-source security tools, CTF challenges, and creative projects that combine AI, cybersecurity, and automation.
-- 📫 How to reach me: DM me on GitHub or connect via my cybersecurity community (coming soon 👀).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once earned a bounty for discovering a subdomain takeover vulnerability and made it to the Hall of Fame 🏆
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=3500&color=00F700&center=true&lines=Cybersecurity+Researcher;Bug+Bounty+Hunter;Automation+%26+Tool+Builder;Always+Learning+New+Stuff" />
+</p>
 
-> “Code like a hacker. Think like a defender. Build like a visionary.” — Cyber-Watch-Dog 🐾
+---
 
-<!---
-Cyber-Watch-Dog/Cyber-Watch-Dog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 About Me
+
+- 🛡️ Passionate about Web Security & Bug Bounty  
+- 🤖 I build automation tools for recon + vulnerabilities  
+- 🎯 Currently learning: Web exploitation, Python automation, Linux  
+- 🧠 Goal: Become a top-tier security researcher  
+- 🌍 Open to collaborations & security research projects
+
+---
+
+### 🛠️ Tech & Tools
+
+#### 🧑‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+
+#### 🔐 Cybersecurity
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-orange?logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-2C3E50?logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-007ACC?logo=rails)
+![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
+
+#### ⚙️ Other
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask)
+
+---
+
+### 🌟 Featured Projects
+
+| 🔧 Project | 📌 Description | 🔗 Link |
+|-----------|----------------|--------|
+| 🕵️‍♂️ Bug Bounty Automation | Recon + vulnerability automation toolkit | https://github.com/YOUR-USERNAME |
+| ⚠️ Open Redirect Scanner | Detects open redirect parameters automatically | https://github.com/YOUR-USERNAME |
+| 🍽️ Restaurant System | Menu + ordering + kitchen display app | https://github.com/YOUR-USERNAME |
+
+---
+
+### 📊 GitHub Stats (Dynamic)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="160"/>
+</p>
+
+---
+
+### 🏆 Achievements & Highlights
+
+- 💰 $200 bounty — subdomain takeover
+- 🔐 Reported weak crypto issue in password reset system
+- 🎯 Working toward **P1 Warrior**
+- 🚀 Built multiple hacking & automation tools
+
+---
+
+### 🤝 Connect With Me
+
+💬 Ask me about cybersecurity, bug bounty, or automation  
+📧 Email — add here  
+🐦 Twitter/X — add here  
+🌐 Website — add here
+
+---
+
+<p align="center">⭐ If you like my work — star my repos & follow!</p>
