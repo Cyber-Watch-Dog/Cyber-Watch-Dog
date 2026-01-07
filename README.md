@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats (Dynamic)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyber-Watch-Dog&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Cyber-Watch-Dog&theme=radical" height="160"/>
   <img src="https://streak-stats.demolab.com/?user=Cyber-Watch-Dog&theme=radical" height="160"/>
 </p>
 
